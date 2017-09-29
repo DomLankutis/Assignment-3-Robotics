@@ -54,7 +54,7 @@ void setup() {
   hashMorse[26](' ' ," "); 
 
   lcd.begin(16,2);
-
+  Serial.println("Device ready...");
 }
 
 void loop() {
