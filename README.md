@@ -11,7 +11,7 @@ Team members:
 
 ## Introduction - 
 
-<font colour="pink">Our team built a morse code using an arduio.
+Our team built a morse code using an arduio.
 
 
 
@@ -24,7 +24,7 @@ this file complies the code and uploads it to the
 arduino and then runs the serial monitor
 
 
-and this is  where we input the message. **:)**  </font>
+and this is  where we input the message. **:)**  
 
 
 
