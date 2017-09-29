@@ -56,5 +56,5 @@ Team members:
 
 >>    Haet :heartpulse:
 
->>    Punnet :neutral_face:
+>>    Puneet :neutral_face:
 
