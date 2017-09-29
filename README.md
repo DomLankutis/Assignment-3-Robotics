@@ -15,10 +15,13 @@ Our team built a morse code using an arduio.
 
 
 
-We run the program using the autorun.bat file, this file complies the code and uploads it to the arduino and then runs the serial monitor and this is  where we input the message. **:)**  
+We run the program using the autorun.bat file,
+this file complies the code and uploads it to the arduino and then runs the serial monitor
+and this is  where we input the message. **:)**  
 
 _What is morse code?_
-Morse code is an alphabet or code in which letters are represented by combinations of long and short light or sound signals.
+Morse code is an alphabet or code in which letters are represented
+by combinations of long and short light or sound signals.
 
 
 
