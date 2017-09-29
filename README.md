@@ -21,7 +21,8 @@ Morse code is an alphabet or code in which letters are represented by combinatio
 
 ▬ Morse created the code in the _1830s_
 
-
-▬ Morse code was heavily used for **(secret)** transmissions during WWI and WWII 
+▬ Morse code was heavily used for (**secret**) transmissions during WWI and WWII 
 
 ▬ Morse code can be both seen and heard !
+
+We run the program using the autorun.bat file, this file complies the code and uploads it to the arduino and then runs the serial monitor and this is  where we input the message. **:)**  
