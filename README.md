@@ -1,13 +1,4 @@
 # Assignment 3 Robotics 
-Team **2+2**
-Team members:
->>    Dom
-
->>    Noah 
-
->>    Haet
-
->>    Punnet 
 
 ## Introduction - 
 
