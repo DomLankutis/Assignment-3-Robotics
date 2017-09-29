@@ -50,11 +50,11 @@ are representedby combinations of long and short light or sound signals.
 
 Team **2+2**
 Team members:
->>    Dom :grin: 
+>>    Dom :shit:
 
->>    Noah 
+>>    Noah :v:
 
->>    Haet
+>>    Haet :heartpulse:
 
->>    Punnet 
+>>    Punnet :neutral_face:
 
