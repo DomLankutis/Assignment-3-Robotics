@@ -12,18 +12,9 @@ Team members:
 ## Introduction - 
 
 Our team built a morse code using an arduio.
-
-
-
 We run the program using the autorun.bat file,
-
-
 this file complies the code and uploads it to the
-
-
 arduino and then runs the serial monitor
-
-
 and this is  where we input the message. **:)**  
 
 
@@ -65,4 +56,14 @@ are representedby combinations of long and short light or sound signals.
 
 
 ▬ Morse code can be both seen and heard !
+
+Team **2+2**
+Team members:
+>>    Dom
+
+>>    Noah 
+
+>>    Haet
+
+>>    Punnet 
 
