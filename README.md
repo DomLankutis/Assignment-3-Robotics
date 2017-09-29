@@ -50,7 +50,7 @@ are representedby combinations of long and short light or sound signals.
 
 Team **2+2**
 Team members:
->>    Dom
+>>    Dom :grin: 
 
 >>    Noah 
 
