@@ -29,10 +29,11 @@ and this is  where we input the message. **:)**
 
 
 _What is morse code?_
-Morse code is an alphabet or code in which letters are represented
+Morse code is an alphabet or code in which letters
 
 
-by combinations of long and short light or sound signals.
+
+are representedby combinations of long and short light or sound signals.
 
 
 
