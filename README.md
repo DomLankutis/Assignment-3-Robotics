@@ -6,7 +6,7 @@ this will compile the code in the ```main.ino``` file and uploads it to the
 arduino after that the the autorun script will run the **Serial Monitor** and will let you know once the device is ready. Once the device is ready you cant start inputing your message and it will be converted to morse code !  
 
 
-## Introduction - 
+## Introduction
 
 
 
@@ -26,7 +26,7 @@ are representedby combinations of long and short light or sound signals.
 
 
 
-**Fun facts:** 
+## Fun facts 
 
 
 
@@ -44,8 +44,8 @@ are representedby combinations of long and short light or sound signals.
 
 ▬ Morse code can be both seen and heard !
 
-Team **2+2**
-Team members:
+## Team **2+2**
+>Team members:
 >>    Dom :shit:
 
 >>    Noah :v:
