@@ -1,19 +1,18 @@
 # Assignment 3 Robotics 
 
+Our team built a morse code converter using an arduino.
+You can run the program by using the ```autorun.bat``` file,
+this will compile the code in the ```main.ino``` file and uploads it to the
+arduino after that the the autorun script will run the **Serial Monitor** and will let you know once the device is ready. Once the device is ready you cant start inputing your message and it will be converted to morse code !  
+
+
 ## Introduction - 
 
-Our team built a morse code using an arduio.
-We run the program using the autorun.bat file,
-this file complies the code and uploads it to the
-arduino and then runs the serial monitor
-and this is  where we input the message. **:)**  
 
 
 
 _What is morse code?_
 Morse code is an alphabet or code in which letters
-
-
 
 are representedby combinations of long and short light or sound signals.
 
@@ -23,9 +22,7 @@ are representedby combinations of long and short light or sound signals.
 
 
 
-[ INSERT IMAGE HERE ]
-
-
+![International_Morse_Code.svg.png](attachment:International_Morse_Code.svg.png)
 
 
 
