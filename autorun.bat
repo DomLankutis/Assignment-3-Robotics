@@ -2,6 +2,7 @@
 
 
 @echo off
+echo INITIALISING ARDUINO IDE
 
 rem Use %SendKeys% to send keys to the keyboard buffer
 set SendKeys=CScript //nologo //E:JScript "%~F0"
@@ -11,13 +12,12 @@ start main/main.ino
 
 SLEEP 10
 %SendKeys% "^u"
+echo COMPILING CODE
 %SendKeys% "^+m"
-
-
-
+echo RUNNING SERIAL MONITOR
+SLEEP 6
 
 @end
-
 
 // JScript section
 
