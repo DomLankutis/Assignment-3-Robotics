@@ -51,9 +51,10 @@ void setup() {
   hashMorse[23]('x',"dccd");
   hashMorse[24]('y',"dcdd");
   hashMorse[25]('z',"ddcc");
-  hashMorse[26](' ' ," "); 
+  hashMorse[26](' ' ,"s"); 
 
   lcd.begin(16,2);
+  tone(buzzerPin, 2500, 500);
   Serial.println("Device ready...");
 }
 
@@ -71,15 +72,17 @@ void loop() {
         digitalWrite(ledPin, HIGH);
         lcd.print(".");
         delay(DELAY);
-        digitalWrite(ledPin, LOW);
       }
       if(tolower(tempOut[i]) == 'd'){
         tone(buzzerPin, FREQUENCY,NOTE_DURATION*3);
         digitalWrite(ledPin, HIGH);
         lcd.print("_");
         delay(DELAY*2);
-        digitalWrite(ledPin, LOW);
       }
+      if(tolower(tempOut[i]) == 's'){
+        delay(DELAY*2);
+      }
+      digitalWrite(ledPin, LOW);
     }
     delay(DELAY/4);
   }
